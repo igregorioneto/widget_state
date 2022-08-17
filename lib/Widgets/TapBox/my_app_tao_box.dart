@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widget_state/Widgets/tap_box.dart';
+import 'package:widget_state/Widgets/TapBox/tap_box.dart';
 
 class MyAppTapBox extends StatelessWidget {
   const MyAppTapBox({Key? key}) : super(key: key);
